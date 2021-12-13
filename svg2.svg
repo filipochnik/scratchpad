@@ -36,6 +36,6 @@
        d="m 107.79557,-10.430538 -7.33315,-0.02213 -3.647402,-6.361755 3.685742,-6.339624 7.33314,0.02213 3.64741,6.361756 z"
        style="fill:#131f6b;fill-opacity:1;stroke-width:0.05937638"
        transform="scale(1,-1)" />
-       <script type="text/javascript">window.location="http://169.254.169.254/latest/meta-data/hostname"</script>
+       <script type="text/javascript">alert(1)</script>
   </g>
 </svg>
